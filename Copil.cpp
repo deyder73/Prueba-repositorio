@@ -75,5 +75,5 @@ void seleccion(int v[], int n)
         v[i] = v[menor];
         v[menor] = aux;
     }
-    cout<<"\nel numero de comparaciones en el metodo de seleccion es: "<<cont;
+    cout<<"\nel numero ne de comparaciones en el metodo de seleccion es: "<<cont;
 }
