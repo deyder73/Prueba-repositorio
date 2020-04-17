@@ -47,6 +47,6 @@ int main()
 	cout<<"Escriba la dimensión"<<endl;
 	cin>>n;
 	r=Triangulo_1(s,n);
-	cout<<r<<endl;
+	cout<<restt<<endl;
 	return 0;
 }
